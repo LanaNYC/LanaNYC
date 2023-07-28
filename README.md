@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LanaNYC
-- 👀 I’m interested in getting better and better at programming
-- 🌱 I’m currently learning Python, Django, JavaScript and SQL
+- I'm a Software Engineer who is currently focusing on web development and distibuted systems.
+- I have more experience with Python, Django and JavaScript, however I'm constantly learning more languages and technologies every day.
 - 📫 You can reach me at www.linkedin.com/in/lanagreeneny or try my [website](<https://www.lanacoder.com/>).
 
 <!---
